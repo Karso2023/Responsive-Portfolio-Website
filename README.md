@@ -9,3 +9,8 @@ This is my first responsive portfolio website built with HTML, CSS, and JavaScri
 </p>
 
 I have also added some features and enhanced the web security with additional code.
+
+# Features added 
+- loading animation
+
+  
