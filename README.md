@@ -12,5 +12,5 @@ I have also added some features and enhanced the web security with additional co
 
 # Features 
 - loading animation
-
+- particle.js background 
   
